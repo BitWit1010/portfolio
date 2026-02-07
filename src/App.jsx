@@ -18,7 +18,6 @@ function App() {
       <Projects />
       <Education />
       <Contact />
-      <h1 style={{color: "red"}}>IT WORKS</h1>
     </div>
   );
 }
