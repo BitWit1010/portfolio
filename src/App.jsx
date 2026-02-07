@@ -18,11 +18,9 @@ function App() {
       <Projects />
       <Education />
       <Contact />
+      <h1 style={{color: "red"}}>IT WORKS</h1>
     </div>
   );
 }
 
-export default function App() {
-  return <h1 style={{color: "red"}}>IT WORKS</h1>
-}
-
+export default App;
